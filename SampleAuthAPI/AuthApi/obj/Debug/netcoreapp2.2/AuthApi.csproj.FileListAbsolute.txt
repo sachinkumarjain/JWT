@@ -1,0 +1,13 @@
+C:\github\SampleAuthAPI\AuthApi\bin\Debug\netcoreapp2.2\AuthApi.deps.json
+C:\github\SampleAuthAPI\AuthApi\bin\Debug\netcoreapp2.2\AuthApi.runtimeconfig.json
+C:\github\SampleAuthAPI\AuthApi\bin\Debug\netcoreapp2.2\AuthApi.runtimeconfig.dev.json
+C:\github\SampleAuthAPI\AuthApi\bin\Debug\netcoreapp2.2\AuthApi.dll
+C:\github\SampleAuthAPI\AuthApi\bin\Debug\netcoreapp2.2\AuthApi.pdb
+C:\github\SampleAuthAPI\AuthApi\obj\Debug\netcoreapp2.2\AuthApi.csproj.CoreCompileInputs.cache
+C:\github\SampleAuthAPI\AuthApi\obj\Debug\netcoreapp2.2\AuthApi.RazorAssemblyInfo.cache
+C:\github\SampleAuthAPI\AuthApi\obj\Debug\netcoreapp2.2\AuthApi.RazorAssemblyInfo.cs
+C:\github\SampleAuthAPI\AuthApi\obj\Debug\netcoreapp2.2\AuthApi.AssemblyInfoInputs.cache
+C:\github\SampleAuthAPI\AuthApi\obj\Debug\netcoreapp2.2\AuthApi.AssemblyInfo.cs
+C:\github\SampleAuthAPI\AuthApi\obj\Debug\netcoreapp2.2\AuthApi.RazorTargetAssemblyInfo.cache
+C:\github\SampleAuthAPI\AuthApi\obj\Debug\netcoreapp2.2\AuthApi.dll
+C:\github\SampleAuthAPI\AuthApi\obj\Debug\netcoreapp2.2\AuthApi.pdb
